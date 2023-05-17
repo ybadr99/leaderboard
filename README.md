@@ -79,8 +79,6 @@ To run tests, run the following commands:
   npx eslint .
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -88,7 +86,7 @@ To run tests, run the following commands:
 > Yousef Badr
 > 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/ybadr99)
+- GitHub: [@ybadr99](https://github.com/ybadr99)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-mohamed-badr/)
 
 <!-- CONTRIBUTING -->
