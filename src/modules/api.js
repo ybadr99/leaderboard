@@ -1,4 +1,4 @@
-const gameId = "W957Sy4qvo8H73dJVrZc";
+const gameId = 'W957Sy4qvo8H73dJVrZc';
 const url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameId}/scores`;
 
 export const getScores = async () => {
@@ -11,9 +11,9 @@ export const getScores = async () => {
 
 export const addScore = async (data) => {
   const response = await fetch(url, {
-    method: "POST",
+    method: 'POST',
     headers: {
-      "Content-Type": "application/json",
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify(data),
   });
