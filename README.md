@@ -10,6 +10,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -38,6 +39,10 @@ A medium fidelity website that uses the Leaderboard API to display players score
 - [ ] **Fetch and disply players scores**
 - [ ] **Add a new player**
 - [ ] **Refresh the board content**
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+- [Live Demo Link](https://ybadr99.github.io/leaderboard/dist/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
