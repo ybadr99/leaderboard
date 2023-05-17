@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>leaderboard</title>
+  </head>
+  <body>
+    <h1>Leaderboard</h1>
+    <div class="container">
+      <section>
+        <div class="board-title">
+          <h3>Recent scores</h3>
+          <button>Refresh</button>
+        </div>
+        <div class="board">
+          <p class="empty-message">there is no scores</p>
+        </div>
+      </section>
+      <section class="section-form">
+        <h3>Add your score</h3>
+
+        <form id="form" action="#">
+          <div class="form-control">
+            <input type="text" required id="name" placeholder="Your name" />
+          </div>
+          <div class="form-control">
+            <input type="number" required id="score" placeholder="Your score" />
+          </div>
+          <button>Add</button>
+        </form>
+      </section>
+    </div>
+  </body>
+</html>
