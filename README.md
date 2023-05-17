@@ -4,55 +4,82 @@
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+[📗 Table of Contents](#-table-of-contents)
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 leaderboard ](#-leaderboard-)
+- [📖 Leaderbord](#-leaderbord)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Leaderbord<a name="about-project"></a>
 
-# 📖 leaderboard <a name="about-project"></a>
-
-> Setup & mobile first
-> \*\*In this project I built a simple leaderboard with leaderboard api & webpack and modules.
+A medium fidelity website that uses the Leaderboard API to display players scores
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<details>
-  <summary>HTML</summary>
-</details>
+### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>CSS</summary>
-</details>
-
-<details>
-  <summary>JS</summary>
-</details>
-
-<details>
-  <summary>Webpack</summary>
-</details>
-
-<details>
-  <summary>API'S</summary>
-</details>
-
-<!-- Features -->
+- HTML
+- CSS
+- Javascript
 
 ### Key Features <a name="key-features"></a>
 
-- **Github workflow**
-- **HTML best semantics**
-- **CSS and linters**
+- [ ] **Fetch and disply players scores**
+- [ ] **Add a new player**
+- [ ] **Refresh the board content**
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- a browser
+- git
+- nodejs
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/mahamadou-nouridine/leaderboard.git
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm run start
+```
+
+### Run tests
+
+To run tests, run the following commands:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+  npx hint .
+  npx eslint .
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -63,14 +90,6 @@
 
 - GitHub: [@githubhandle](https://github.com/ybadr99)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-mohamed-badr/)
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- **Create the project section**
-- **Create the About section**
-- **Create the contact section**
 
 <!-- CONTRIBUTING -->
 
@@ -89,7 +108,7 @@ If you like this project:thumbsup:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Leaderboard API service (https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
+> I would like to thank [Leaderboard API](https://microverse.notion.site/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 <!-- LICENSE -->
 
