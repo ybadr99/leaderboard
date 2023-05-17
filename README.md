@@ -10,8 +10,6 @@
 - [📖 leaderboard ](#-leaderboard-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
-    - [Deployment](#deployment)
-  - [🚀 Live Demo ](#-live-demo-)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -55,14 +53,6 @@
 - **Github workflow**
 - **HTML best semantics**
 - **CSS and linters**
-
-### Deployment
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> not lived yet
 
 <!-- AUTHORS -->
 
