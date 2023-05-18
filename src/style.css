@@ -44,11 +44,15 @@ button {
   cursor: pointer;
 }
 
+.board-section {
+  width: 50%;
+}
+
 .board-title {
   display: flex;
   align-items: center;
   gap: 18px;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin-bottom: 16px;
 }
 
